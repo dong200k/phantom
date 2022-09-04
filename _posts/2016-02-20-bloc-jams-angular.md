@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
+title: 'Random Quote Generator'
+date: 2022-01-09 14:15:00
 categories: development
-tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+tags: JavaScript HTML CSS React
+featured_image: '/phantom/img/posts/02_random-quote.png'
+project_link: 'https://codepen.io/Dong200k/pen/KKXxezd'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+lead_text: 'Designed and built a random quote generator'
 ---

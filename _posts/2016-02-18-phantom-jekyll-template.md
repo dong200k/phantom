@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
+title: 'Youth Sport Center'
+date: 2022-05-31 21:15:00
 categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
+tags: HTML CSS JavaScript React MongoDB Express Socket.IO Heroku
+featured_image: '/phantom/img/posts/01_youth-sport-center.png'
+project_link: 'https://sproj-youth-sport-center.herokuapp.com/'
+button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "Designed and developed Youth Sport Center, a web app for parents to enroll kids into different sports programs, with 3 other group mates"
 ---
