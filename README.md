@@ -1,3 +1,8 @@
+## My first portfolio created using a jekyll template
+https://dong200k.github.io/phantom/
+## Credit
+https://github.com/jamigibbs/phantom
+
 ## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
