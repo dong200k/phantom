@@ -22,7 +22,7 @@ twitter_username: ''
 github_username: 'dong200k'
 medium_username: ''
 baseurl: /phantom
-url: http://dong200k.github.io
+url: https://dong200k.github.io
 
 # Build settings
 markdown: kramdown
