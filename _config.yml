@@ -21,7 +21,7 @@ description: "I'm a software engineer from New York."
 twitter_username: ''
 github_username: 'dong200k'
 medium_username: ''
-baseurl: 
+baseurl: ""
 url: "https://dong200k.github.io/phantom"
 
 # Build settings
