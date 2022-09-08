@@ -21,8 +21,8 @@ description: "I'm a software engineer from New York."
 twitter_username: ''
 github_username: 'dong200k'
 medium_username: ''
-baseurl: /phantom
-url: https://dong200k.github.io
+baseurl: 
+url: "https://dong200k.github.io/phantom"
 
 # Build settings
 markdown: kramdown
@@ -97,7 +97,7 @@ google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
