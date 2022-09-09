@@ -4,7 +4,7 @@ position: right
 title: 'AutioBook'
 date: 2022-5-31 15:56:00
 categories: development
-tags: Java Android Studio
+tags: Java AndroidStudio
 featured_image: '/phantom/img/posts/04_audio-book.png'
 project_link: 'https://github.com/Autiobook/Autiobook'
 button_icon: 'github'
